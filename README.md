@@ -10,6 +10,32 @@ faire signer les conventions de stage.
 
 ---
 
+## Où trouver le projet sur GitHub ?
+
+Le code source du projet est disponible sur GitHub.
+
+Pour retrouver le projet :
+
+1. Se connecter à GitHub.
+2. Aller dans la barre de recherche.
+3. Rechercher le nom du dépôt :
+   **conventions-stage-louis-bleriot**
+4. Ouvrir le dépôt correspondant au projet.
+
+Le dépôt GitHub contient :
+
+- le code source ;
+- le fichier `README.md` ;
+- la documentation du projet ;
+- les fichiers nécessaires au développement.
+
+**Lien du dépôt GitHub :**  
+[conventions-stage-louis-bleriot](https://github.com/TON-PSEUDO/conventions-stage-louis-bleriot)
+
+> Remplacer `TON-PSEUDO` par ton nom d'utilisateur GitHub.
+
+---
+
 ## Objectifs du projet
 
 - Dématérialiser les conventions de stage.
