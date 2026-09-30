@@ -2,37 +2,25 @@
 
 ## Lycée Louis Blériot
 
+### Dépôt GitHub du projet
+
+Le code source et la documentation du projet sont disponibles sur
+le dépôt GitHub :
+
+**GitHub :** [conventions-stage-louis-bleriot](https://github.com/TON-PSEUDO/conventions-stage-louis-bleriot)
+
+> Remplacer `TON-PSEUDO` par le nom d'utilisateur GitHub du propriétaire
+> du dépôt.
+
+---
+
+## Présentation du projet
+
 Ce projet a pour objectif de mettre en place une solution permettant
 de gérer les conventions de stage de manière dématérialisée.
 
 L'application doit permettre de créer, gérer, suivre, valider et
 faire signer les conventions de stage.
-
----
-
-## Où trouver le projet sur GitHub ?
-
-Le code source du projet est disponible sur GitHub.
-
-Pour retrouver le projet :
-
-1. Se connecter à GitHub.
-2. Aller dans la barre de recherche.
-3. Rechercher le nom du dépôt :
-   **conventions-stage-louis-bleriot**
-4. Ouvrir le dépôt correspondant au projet.
-
-Le dépôt GitHub contient :
-
-- le code source ;
-- le fichier `README.md` ;
-- la documentation du projet ;
-- les fichiers nécessaires au développement.
-
-**Lien du dépôt GitHub :**  
-[conventions-stage-louis-bleriot](https://github.com/TON-PSEUDO/conventions-stage-louis-bleriot)
-
-> Remplacer `TON-PSEUDO` par ton nom d'utilisateur GitHub.
 
 ---
 
@@ -52,9 +40,10 @@ Le dépôt GitHub contient :
 
 ## Solutions et logiciels étudiés
 
-### ESUP-Stage
+### 1. ESUP-Stage
 
-[GitHub ESUP-Stage](https://github.com/EsupPortail/esup-stage)
+**GitHub :**  
+[https://github.com/EsupPortail/esup-stage](https://github.com/EsupPortail/esup-stage)
 
 ESUP-Stage est une solution open source destinée à la gestion des
 stages et des conventions.
@@ -71,11 +60,13 @@ L'étude porte notamment sur :
 
 ---
 
-### Documenso
+### 2. Documenso
 
-[Documentation Documenso](https://docs.documenso.com/)
+**Documentation :**  
+[https://docs.documenso.com/](https://docs.documenso.com/)
 
-[GitHub Documenso](https://github.com/documenso/documenso)
+**GitHub :**  
+[https://github.com/documenso/documenso](https://github.com/documenso/documenso)
 
 Documenso est une solution open source de signature électronique.
 
@@ -91,7 +82,7 @@ La convention comporte 5 emplacements de signature :
 
 ---
 
-### Application personnalisée
+### 3. Application personnalisée
 
 Une application personnalisée est développée pour répondre aux
 besoins spécifiques du lycée Louis Blériot.
@@ -112,7 +103,8 @@ L'application permet progressivement de mettre en place :
 - un espace personnel du lycée ;
 - la gestion des conventions ;
 - le suivi des signatures ;
-- la gestion des utilisateurs.
+- la gestion des utilisateurs ;
+- l'historique des actions.
 
 ---
 
@@ -120,10 +112,11 @@ L'application permet progressivement de mettre en place :
 
 ### Excalidraw
 
-[GitHub Excalidraw](https://github.com/excalidraw/excalidraw)
+**GitHub :**  
+[https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
-Excalidraw est un outil open source utilisé pour créer des schémas
-et représenter visuellement l'architecture et le fonctionnement
+Excalidraw est un outil open source permettant de créer des schémas
+et de représenter visuellement l'architecture et le fonctionnement
 du projet.
 
 Il peut notamment servir à réaliser :
@@ -137,9 +130,11 @@ Il peut notamment servir à réaliser :
 
 ### Mermaid
 
-[GitHub Mermaid](https://github.com/mermaid-js/mermaid)
+**GitHub :**  
+[https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 
-Mermaid permet de créer des diagrammes à partir de texte.
+Mermaid est une bibliothèque open source permettant de créer des
+diagrammes directement à partir de texte.
 
 Il peut être utilisé pour représenter :
 
@@ -153,7 +148,8 @@ Il peut être utilisé pour représenter :
 
 ### yEd
 
-[yEd](https://www.yworks.com/products/yed)
+**Site officiel :**  
+[https://www.yworks.com/products/yed](https://www.yworks.com/products/yed)
 
 yEd est un logiciel permettant de créer différents types de
 diagrammes.
@@ -172,7 +168,8 @@ officiel.
 
 ### draw.io / diagrams.net
 
-[GitHub draw.io](https://github.com/jgraph/drawio)
+**GitHub :**  
+[https://github.com/jgraph/drawio](https://github.com/jgraph/drawio)
 
 draw.io, également appelé diagrams.net, est un outil permettant
 de créer différents types de diagrammes.
