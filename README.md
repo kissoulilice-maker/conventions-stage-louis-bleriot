@@ -1,91 +1,94 @@
-# Projet 2 — Gestion dématérialisée des conventions de stage
+## Outils de conception et de schématisation
 
-## Lycée Louis Blériot
+Les outils suivants sont étudiés ou utilisés pour concevoir
+les diagrammes, les schémas et la documentation technique du projet.
 
-Application destinée à dématérialiser la gestion des conventions de stage :
-création, suivi, validation et signature des conventions.
+### Excalidraw
 
----
+[GitHub Excalidraw](https://github.com/excalidraw/excalidraw)
 
-## Solutions étudiées
+Excalidraw est un outil open source permettant de créer des
+schémas et diagrammes avec un style dessiné à la main.
 
-### Solution 1 — ESUP-Stage
+Il peut être utilisé pour réaliser :
 
-[ESUP-Stage](https://github.com/EsupPortail/esup-stage)
+- des schémas d'architecture ;
+- des maquettes ;
+- des diagrammes fonctionnels ;
+- des représentations du fonctionnement de l'application.
 
-ESUP-Stage est une solution open source destinée à la gestion des stages.
-Elle constitue la première solution étudiée dans le cadre du Projet 2.
+### Mermaid
 
-Objectifs de l'étude :
+[GitHub Mermaid](https://github.com/mermaid-js/mermaid)
 
-- étudier les fonctionnalités proposées ;
-- comprendre son architecture ;
-- étudier son installation ;
-- vérifier la gestion des conventions ;
-- étudier le processus de validation ;
-- étudier les possibilités de signature ;
-- déterminer si la solution peut être adaptée aux besoins du lycée Louis Blériot.
+Mermaid est une bibliothèque open source permettant de créer
+des diagrammes directement à partir de texte.
 
----
+Elle peut être utilisée pour réaliser :
 
-### Solution 2 — Documenso
+- des diagrammes de séquence ;
+- des organigrammes ;
+- des diagrammes de classes ;
+- des diagrammes de flux ;
+- des diagrammes d'architecture.
 
-Documenso sera étudié comme solution open source
-de signature électronique et pourra éventuellement être intégré
-à notre application.
+### yEd
 
----
+[yEd](https://www.yworks.com/products/yed)
 
-### Solution 3 — Développement personnalisé
+yEd est un logiciel de création de diagrammes.
 
-Une application développée en PHP avec MySQL/MariaDB,
-HTML, CSS et JavaScript.
+Il peut être utilisé pour réaliser des :
 
-Cette solution permettra d'adapter précisément l'application
-aux besoins du lycée.
+- diagrammes UML ;
+- organigrammes ;
+- schémas réseau ;
+- diagrammes d'architecture.
 
----
+yEd n'est pas un projet open source et ne possède donc pas de dépôt
+GitHub officiel à référencer comme pour Excalidraw ou Mermaid.
 
-## Technologies envisagées
+### draw.io / diagrams.net
 
-- PHP
-- MySQL / MariaDB
-- HTML
-- CSS
-- JavaScript
-- XAMPP
-- Documenso
-- Docker
+[GitHub draw.io](https://github.com/jgraph/drawio)
 
----
+draw.io, également appelé diagrams.net, est un outil de création
+de diagrammes permettant notamment de réaliser :
 
-## Gestion des signatures
-
-La convention comporte 5 emplacements de signature :
-
-1. Chef d'établissement
-2. Représentant de l'entreprise
-3. Élève ou représentant légal
-4. Enseignant référent
-5. Tuteur en entreprise
+- des diagrammes UML ;
+- des schémas réseau ;
+- des diagrammes de flux ;
+- des architectures techniques ;
+- des modèles de bases de données.
 
 ---
 
-## État du projet
+## Solutions étudiées pour le Projet 2
 
-- [x] Création de la base de données
-- [x] Création de la table `signatures`
-- [x] Connexion PHP → MySQL
-- [x] Création de la page d'accueil
-- [x] Création de l'espace élève
-- [x] Création de la page de connexion élève
-- [ ] Étude complète d'ESUP-Stage
-- [ ] Installation/test d'ESUP-Stage
-- [ ] Étude de Documenso
-- [ ] Intégration de la signature électronique
-- [ ] Gestion des conventions
-- [ ] Gestion des signatures
-- [ ] Espace personnel
-- [ ] Espace entreprise
-- [ ] Tests
-- [ ] Documentation finale
+### 1. ESUP-Stage
+
+[GitHub ESUP-Stage](https://github.com/EsupPortail/esup-stage)
+
+Solution open source destinée à la gestion des stages et des
+conventions.
+
+### 2. Documenso
+
+[Documentation Documenso](https://docs.documenso.com/)
+
+Solution open source étudiée pour la gestion de la signature
+électronique des documents.
+
+### 3. Application développée pour le lycée
+
+Développement d'une application personnalisée avec :
+
+- PHP ;
+- MySQL / MariaDB ;
+- HTML ;
+- CSS ;
+- JavaScript ;
+- XAMPP.
+
+L'objectif est d'adapter l'application aux besoins spécifiques
+du lycée Louis Blériot.
