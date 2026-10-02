@@ -19,7 +19,7 @@ faire signer les conventions de stage.
 
 ---
 
-### Objectifs détailler du projet
+### Objectifs détaillés du projet
 
 - Dématérialiser les conventions de stage.
 - Faciliter la création des conventions.
