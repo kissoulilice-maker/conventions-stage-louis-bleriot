@@ -43,6 +43,7 @@ sont disponibles dans le **Wiki du projet**.
 - ESUP-Stage
 - Documenso
 - Application personnalisée
+- DocuSeal
 
 ## Outils de conception
 
