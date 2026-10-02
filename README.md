@@ -9,11 +9,6 @@ le dépôt GitHub :
 
 **GitHub :** [conventions-stage-louis-bleriot](https://github.com/TON-PSEUDO/conventions-stage-louis-bleriot)
 
-> Remplacer `TON-PSEUDO` par le nom d'utilisateur GitHub du propriétaire
-> du dépôt.
-
----
-
 ## Présentation du projet
 
 Ce projet a pour objectif de mettre en place une solution permettant
