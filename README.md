@@ -1,4 +1,4 @@
-# Projet 2 — Gestion dématérialisée des conventions de stage
+# Gestion dématérialisée des conventions de stage
 
 ## Lycée Louis Blériot
 
