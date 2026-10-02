@@ -47,7 +47,7 @@ sont disponibles dans le **Wiki du projet**.
 
 ## Technologies
 
-Les détails concernant les outils utilisés sont disponibles dans le
+Les détails concernant les technologies utilisés sont disponibles dans le
 **Wiki du projet**.
 
 - Excalidraw
