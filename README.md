@@ -54,16 +54,3 @@ Les détails concernant les outils utilisés sont disponibles dans le
 - yEd
 - draw.io / diagrams.net
 
-## Architecture envisagée
-
-Les détails de l'architecture sont disponibles dans le **Wiki du projet**.
-
-- Élève
-- Personnel
-- Entreprise
-- Application Web PHP
-- Base MySQL
-- Convention PDF
-- Documenso
-- 5 signatures
-- Convention finalisée
