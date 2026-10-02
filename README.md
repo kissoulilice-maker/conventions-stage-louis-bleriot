@@ -1,6 +1,7 @@
 # Gestion dématérialisée des conventions de stage
 
 ## Lycée Louis Blériot
+Projet réalisé au Lycée Louis Blériot de Trappes dans le cadre de ma formation en CS Cybersécurité .
 
 ### Dépôt GitHub du projet
 
