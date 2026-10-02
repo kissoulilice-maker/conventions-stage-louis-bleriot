@@ -45,7 +45,7 @@ sont disponibles dans le **Wiki du projet**.
 - Application personnalisée
 - DocuSeal
 
-## Outils de conception
+## Technologies
 
 Les détails concernant les outils utilisés sont disponibles dans le
 **Wiki du projet**.
