@@ -8,7 +8,7 @@ Projet réalisé au Lycée Louis Blériot de Trappes dans le cadre de ma formati
 Le code source et la documentation du projet sont disponibles sur
 le dépôt GitHub :
 
-**GitHub :** [conventions-stage-louis-bleriot](https://github.com/TON-PSEUDO/conventions-stage-louis-bleriot)
+**GitHub :** [conventions-stage-louis-bleriot](../../wiki)
 
 ## Présentation du projet
 
