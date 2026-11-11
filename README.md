@@ -25,6 +25,12 @@ Statut
 ----
 Pull Request en cours.
 
+Détails
+----
+- Le lien vers le dépôt Wiki n'est pas opérationnel.
+- Il faut d'autre part privilégier les liens relatifs, en l'occurrence `../../wiki`.
+- Il y a au moins une faute d'orthographe dans la page.
+
 Design from : [SW-GDCSES-202611231335-0001 : Erreur de Lien et d'orthographe.](https://github.com/scientificware/gestion_dematerialisee_conventions_stage_etablissements_scolaires/)
 ```
 
