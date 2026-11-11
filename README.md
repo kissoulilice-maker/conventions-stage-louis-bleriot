@@ -3,7 +3,7 @@
 Ce dépôt est un fork du dépôt de travail de K.B. Étudiant en CS Cybersécurité au Lycée Louis Blériot de Trappes.
 Pour plus d'informations sur l'auteur, consulter directement le dépôt original.
 
-Ce projet a été réalisé lors d'un stage dans la société ScientificWare qui l'a missionné pour cette étude de faisabilité.
+Ce projet a été réalisé lors d'un stage dans la société ScientificWare qui l'a missionné pour une étude de faisabilité.
 
 L'objet de ce dépôt est de dupliquer le contenu du dépôt d'origine pour :
 - suivre et évaluer le travail réalisé,
