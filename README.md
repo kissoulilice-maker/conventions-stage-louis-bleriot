@@ -10,7 +10,23 @@ L'objet de ce dépôt est de dupliquer le contenu du dépôt d'origine pour :
 - apporter des corrections ou des suggestions,
 - faciliter l'intégration de nouveaux collaborateurs.
 
-Les tickets relatifs au suivi sont numérotés de la manière suivante : SW-GDCSES-AAAMMJJHHMM
+Les tickets relatifs au suivi sont numérotés de la manière suivante : SW-GDCSES-AAAAMMJJHHMM-NPC4
+
+Les rapports doivent être édités suivant le modèle ci-dessous :
+
+Titre : `SW-GDCSES-202611231335-0001 : Erreur de Lien et d'orthographe.`
+```
+L'objectif de ce ticket est de signaler une erreur de lien et d'orthographe dans la page README.md.
+----
+Ce ticket est référencé dans la base de données sous :
+SW-GDCSES-202611231335-0001 : Erreur de Lien et d'orthographe.
+
+Statut
+----
+Pull Request en cours.
+
+Design from : [SW-GDCSES-202611231335-0001 : Erreur de Lien et d'orthographe.](https://github.com/scientificware/gestion_dematerialisee_conventions_stage_etablissements_scolaires/)
+```
 
 ### Dépôt GitHub du projet
 
