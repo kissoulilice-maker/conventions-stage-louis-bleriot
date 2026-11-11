@@ -10,6 +10,8 @@ L'objet de ce dépôt est de dupliquer le contenu du dépôt d'origine pour :
 - apporter des corrections ou des suggestions,
 - faciliter l'intégration de nouveaux collaborateurs.
 
+Les tickets relatifs au suivi sont numérotés de la manière suivante : SW-GDCSES-AAAMMJJHHMM
+
 ### Dépôt GitHub du projet
 
 Le code source et la documentation du projet sont disponibles sur le dépôt GitHub :
