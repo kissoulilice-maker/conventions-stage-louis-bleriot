@@ -69,7 +69,7 @@ Les détails concernant les solutions, les logiciels et les choix réalisés son
 - ESUP-Stage
 - Documenso
 - Application personnalisée
-- DocuSeal
+- DocuSeal testez notre [DocuSeal ScientificWare Version](http://185.163.127.11:3000)
 
 ## Technologies
 
