@@ -1,55 +1,49 @@
-# Gestion dématérialisée des conventions de stage
+# DocuBlériot — Gestion dématérialisée des conventions de stage
 
-## Lycée Louis Blériot
-Projet réalisé au Lycée Louis Blériot de Trappes dans le cadre de ma formation en CS Cybersécurité .
+## Lycée Louis-Blériot — Trappes
 
-### Dépôt GitHub du projet
+DocuBlériot est un projet réalisé dans le cadre de la formation en CS Cybersécurité. Il vise à simplifier la préparation, la transmission, la signature et le suivi des conventions de stage.
 
-Le code source et la documentation du projet sont disponibles sur le dépôt GitHub :
+## Présentation
 
-**GitHub :** [conventions-stage-louis-bleriot](../../wiki)
+La plateforme a pour objectif de centraliser les étapes administratives liées aux conventions de stage et de faciliter les échanges entre les élèves, les entreprises et le personnel de l'établissement.
 
-## Présentation du projet
-
-Ce projet a pour objectif de mettre en place une solution permettant
-de gérer les conventions de stage de manière dématérialisée.
-
-L'application doit permettre de créer, gérer, suivre, valider et faire signer les conventions de stage.
-
----
-
-### Objectifs détaillés du projet
+### Objectifs
 
 - Dématérialiser les conventions de stage.
-- Faciliter la création des conventions.
-- Permettre le suivi de l'état des conventions.
-- Mettre en place un système de validation.
-- Gérer les différentes signatures.
-- Centraliser les documents.
-- Faciliter le travail des élèves, des entreprises et du personnel
-  du lycée.
-- Améliorer le suivi des conventions.
-- Étudier et utiliser des solutions open source adaptées au projet.
- 
+- Faciliter la préparation des documents.
+- Identifier les différents intervenants.
+- Organiser le circuit de validation et de signature.
+- Envoyer les invitations aux signataires.
+- Suivre l'état d'avancement des signatures.
+- Récupérer et conserver les conventions finalisées.
 
----
+## Documentation
 
-## Solutions et logiciels étudiés
+La documentation destinée aux utilisateurs est disponible ici :
 
-Les détails concernant les solutions, les logiciels et les choix réalisés sont disponibles dans le **Wiki du projet**.
+- [Guide fonctionnel et guide d'utilisation](docs/GUIDE_UTILISATEUR.md)
 
-- ESUP-Stage
-- Documenso
-- Application personnalisée
-- DocuSeal
+Ce guide présente les fonctionnalités côté utilisateur sans détailler les éléments de programmation ni les procédures d'administration technique.
 
-## Technologies
+## Intervenants prévus
 
-Les détails concernant les technologies utilisées sont disponibles dans le
-**Wiki du projet**.
+Le circuit de validation du projet prévoit cinq catégories d'intervenants :
 
-- Excalidraw
-- Mermaid
-- yEd
-- draw.io / diagrams.net
+1. Professeur référent.
+2. Tuteur de stage.
+3. Directeur.
+4. Entreprise d'accueil.
+5. Responsable légal ou étudiant majeur.
 
+## Solution de gestion des signatures
+
+Le prototype s'appuie sur **DocuSeal** pour préparer les documents PDF, gérer les demandes de signature, envoyer les invitations et suivre les soumissions.
+
+## État du projet
+
+Ce dépôt présente le projet et sa documentation fonctionnelle. Certaines fonctionnalités décrites correspondent au fonctionnement prévu ou testé du prototype et ne doivent pas être considérées comme déployées en production sans validation supplémentaire.
+
+## Dépôt
+
+[Consulter le dépôt GitHub](https://github.com/kissoulilice-maker/conventions-stage-louis-bleriot)
