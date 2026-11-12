@@ -5,8 +5,7 @@ Projet réalisé au Lycée Louis Blériot de Trappes dans le cadre de ma formati
 
 ### Dépôt GitHub du projet
 
-Le code source et la documentation du projet sont disponibles sur
-le dépôt GitHub :
+Le code source et la documentation du projet sont disponibles sur le dépôt GitHub :
 
 **GitHub :** [conventions-stage-louis-bleriot](../../wiki)
 
@@ -15,8 +14,7 @@ le dépôt GitHub :
 Ce projet a pour objectif de mettre en place une solution permettant
 de gérer les conventions de stage de manière dématérialisée.
 
-L'application doit permettre de créer, gérer, suivre, valider et
-faire signer les conventions de stage.
+L'application doit permettre de créer, gérer, suivre, valider et faire signer les conventions de stage.
 
 ---
 
@@ -38,8 +36,7 @@ faire signer les conventions de stage.
 
 ## Solutions et logiciels étudiés
 
-Les détails concernant les solutions, les logiciels et les choix réalisés
-sont disponibles dans le **Wiki du projet**.
+Les détails concernant les solutions, les logiciels et les choix réalisés sont disponibles dans le **Wiki du projet**.
 
 - ESUP-Stage
 - Documenso
@@ -48,7 +45,7 @@ sont disponibles dans le **Wiki du projet**.
 
 ## Technologies
 
-Les détails concernant les technologies utilisés sont disponibles dans le
+Les détails concernant les technologies utilisées sont disponibles dans le
 **Wiki du projet**.
 
 - Excalidraw
